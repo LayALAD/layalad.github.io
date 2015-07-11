@@ -1,0 +1,15 @@
+Package: <com.damar1st.simpsonscorehackiOS8>
+Version: <4.15>
+Architecture: iphoneos-arm
+Maintainer: LayA
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo>
+Description: <Free donuts,cash,depris remover + many more.>
+Author: LayA
+Depiction: https://github.com/LayALAD/cydija/depic/TSTO/index.html
+Name: TSTO VIP Mod 4.15
