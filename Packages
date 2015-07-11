@@ -5,9 +5,7 @@ Maintainer: LayA
 Depends: wget, unrar, com.ericasadun.utilities, darwintools
 Filename: debs//com.damar1st.simpsonscorehackiOS8.deb
 Size: 18374298
-MD5sum: F4884737D48AA2CED24924AC8BC8AD48
-SHA1: 4CDAB2C3386355DFCD224B67BC789B39B6CC58AC
-SHA256: 5E94A8DBAE06122AAB92F892C699C1D063E119D0DE2AD630A390D61063AA946B
+MD5sum: f4884737d48aa2ced24924ac8bc8ad48
 Section:  Game Hacks/Mods
 Description: Free donuts,cash,debris remover + many more!
 Author: LayA
